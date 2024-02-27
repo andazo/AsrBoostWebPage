@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AsrBoostWebPage/static/css/main.43cd7d3c.css",
+    "main.js": "/AsrBoostWebPage/static/js/main.6bf34b28.js",
+    "static/media/Miel.png": "/AsrBoostWebPage/static/media/Miel.9a4598c0839d1adacca2.png",
+    "static/media/purpleSecret.png": "/AsrBoostWebPage/static/media/purpleSecret.bc0c59124fd653b2f5d1.png",
+    "static/media/Plan1.png": "/AsrBoostWebPage/static/media/Plan1.13ef449281223eb8813c.png",
+    "static/media/NutFacts.png": "/AsrBoostWebPage/static/media/NutFacts.956ca1d2ec74f2d4e53e.png",
+    "static/media/Plan2.png": "/AsrBoostWebPage/static/media/Plan2.8613279c765e053f1f8d.png",
+    "static/media/BusinessIllustration.png": "/AsrBoostWebPage/static/media/BusinessIllustration.f9af96638a9c1c7cd0d4.png",
+    "static/media/LogoASR.png": "/AsrBoostWebPage/static/media/LogoASR.e3c071e670ed9b76687d.png",
+    "static/media/FDAap.png": "/AsrBoostWebPage/static/media/FDAap.9250d16bf37316001ac3.png",
+    "static/media/marketPlace.png": "/AsrBoostWebPage/static/media/marketPlace.2bb2244b7296be17af4a.png",
+    "index.html": "/AsrBoostWebPage/index.html",
+    "main.43cd7d3c.css.map": "/AsrBoostWebPage/static/css/main.43cd7d3c.css.map",
+    "main.6bf34b28.js.map": "/AsrBoostWebPage/static/js/main.6bf34b28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43cd7d3c.css",
+    "static/js/main.6bf34b28.js"
+  ]
+}
